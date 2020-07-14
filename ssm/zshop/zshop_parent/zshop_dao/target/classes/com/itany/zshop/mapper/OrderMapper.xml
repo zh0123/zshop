@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.itany.zshop.dao.OrderDao">
+
+    <resultMap id="orderMap" type="Order">
+        <id property="id" column="id"/>
+        <result property="customerId" column="customer_id"/>
+        <result property="price" column="price"/>
+        <result property="image" column="image"/>
+
+        <result property="productName" column="productName"/>
+        <result property="productInfo" column="productInfo"/>
+        <result property="createDate" column="create_date"/>
+
+    </resultMap>
+    <insert id="add" parameterType="Order">
+        insert into t_order
+          (customer_id, price,create_date,image,productName,productInfo,address)
+        values
+          (#{customerId},#{price},#{createDate},#{image},#{productName},#{productInfo}.#{address})
+    </insert>
+    <insert id="insert" parameterType="com.itany.zshop.pojo.Cart">
+        insert into t_cart
+          (id,name,customer_name, price,info,image,size ,success,mounty,address)
+        values
+          (#{id},#{name},#{customerName},#{price},#{info},#{image},#{size},#{success},#{mounty},#{address})
+    </insert>
+    <select id="find" resultType="com.itany.zshop.pojo.Cart">
+        select id, name ,price,info,image,size,success,mounty,address
+        from t_cart where customer_name=#{customerName} and success=#{success}
+    </select>
+
+<delete id="delete">
+    delete from t_cart
+    where  id=#{id};
+</delete>
+
+</mapper>

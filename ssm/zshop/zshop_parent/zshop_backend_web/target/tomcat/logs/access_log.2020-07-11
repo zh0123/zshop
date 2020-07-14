@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET / HTTP/1.1" 200 4084 http-bio-9001-exec-1 560
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /css/bootstrap.min.css HTTP/1.1" 304 - http-bio-9001-exec-3 7
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /css/bootstrapValidator.min.css HTTP/1.1" 304 - http-bio-9001-exec-4 0
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /js/jquery.min.js HTTP/1.1" 304 - http-bio-9001-exec-5 0
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /js/bootstrap.min.js HTTP/1.1" 304 - http-bio-9001-exec-6 0
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /js/bootstrapValidator.min.js HTTP/1.1" 304 - http-bio-9001-exec-7 0
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /layer/layer.js HTTP/1.1" 304 - http-bio-9001-exec-8 0
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /css/zshop.css HTTP/1.1" 304 - http-bio-9001-exec-2 0
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /layer/theme/default/layer.css?v=3.1.1 HTTP/1.1" 304 - http-bio-9001-exec-9 0
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /css/mycss.css HTTP/1.1" 304 - http-bio-9001-exec-10 0
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /images/backimage.jpg HTTP/1.1" 304 - http-bio-9001-exec-2 15
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 304 - http-bio-9001-exec-2 16
+0:0:0:0:0:0:0:1 - - [11/Jul/2020:14:46:40 +0800] "GET /backend/code/image HTTP/1.1" 200 1503 http-bio-9001-exec-10 218

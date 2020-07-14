@@ -1,0 +1,8 @@
+com\itany\zshop\dao\RoleDao.class
+com\itany\zshop\dao\CustomerDao.class
+com\itany\zshop\params\SysuserParam.class
+com\itany\zshop\dao\SysuserDao.class
+com\itany\zshop\dao\ProductDao.class
+com\itany\zshop\dao\ProductTypeDao.class
+com\itany\zshop\dao\OrderDao.class
+com\itany\zshop\params\ProductParam.class

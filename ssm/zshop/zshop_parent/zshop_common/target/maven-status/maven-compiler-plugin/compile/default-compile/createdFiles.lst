@@ -1,0 +1,15 @@
+com\itany\zshop\common\constant\CustomerConstant.class
+com\itany\zshop\common\util\ResponseResult.class
+com\itany\zshop\common\constant\PaginationConstant.class
+com\itany\zshop\common\exception\PhoneNotRegistException.class
+com\itany\zshop\common\util\SpringBeanHolder.class
+com\itany\zshop\common\exception\LoginErrorException.class
+com\itany\zshop\common\util\FtpUtils.class
+com\itany\zshop\common\constant\ProductTypeConstant.class
+com\itany\zshop\common\util\StringUtils.class
+com\itany\zshop\common\exception\SysuserNotExistException.class
+com\itany\zshop\common\util\HttpClientUtils.class
+com\itany\zshop\common\constant\ResponseStatusConstant.class
+com\itany\zshop\common\util\RedisUtils.class
+com\itany\zshop\common\constant\SysuserContstant.class
+com\itany\zshop\common\exception\ProductTypeExistException.class

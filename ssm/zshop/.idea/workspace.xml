@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28738eb6-27ff-4745-a4ad-c70e1de79398" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/zshop_parent/target/" />
+    <ignored path="$PROJECT_DIR$/zshop_parent/zshop_common/target/" />
+    <ignored path="$PROJECT_DIR$/zshop_parent/zshop_pojo/target/" />
+    <ignored path="$PROJECT_DIR$/zshop_parent/zshop_dao/target/" />
+    <ignored path="$PROJECT_DIR$/zshop_parent/zshop_service/target/" />
+    <ignored path="$PROJECT_DIR$/zshop_parent/zshop_front_web/target/" />
+    <ignored path="$PROJECT_DIR$/zshop_parent/zshop_backend_web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - zshop@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - zshop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="zshop: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="47" selection-start-column="47" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/controller/SysuserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-635">
+              <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/backimage.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/login.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2061" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/bootstrapValidator.min.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/bootstrap-responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4347" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/mycss.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>${pageContext.request.contextPath}/</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_dao/src/main/java/com/itany/zshop/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_common/src/main/java/com/itany/zshop/common/constant/PaginationConstant.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/java/com/itany/zshop/front/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_common/src/main/java/com/itany/zshop/common/util/HttpClientUtils.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/resources/sms.properties" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/impl/PruductTypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/productTypeManager.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/impl/SysuserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_dao/src/main/java/com/itany/zshop/dao/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/impl/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_dao/src/main/java/com/itany/zshop/mapper/CustomerMapper.xml" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/main.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/java/com/itany/zshop/front/controller/MyOrderControkker.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/java/com/itany/zshop/front/controller/CenterController.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/resources/spring-service.xml" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/myOrders.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_common/src/main/java/com/itany/zshop/common/util/SpringBeanHolder.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_common/src/main/java/com/itany/zshop/common/util/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/java/com/itany/zshop/front/controller/SmsController.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/resources/spring-redis.xml" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/resources/redis.properties" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/productManager.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/vo/ProductVo.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/dto/ProductDto.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/java/com/itany/zshop/front/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/center.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_pojo/src/main/java/com/itany/zshop/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/main.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_pojo/src/main/java/com/itany/zshop/pojo/Cart.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/top.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/order.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/top2.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/top3.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/top4.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/topOrder.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_dao/src/main/java/com/itany/zshop/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_dao/src/main/java/com/itany/zshop/mapper/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/java/com/itany/zshop/front/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/msg.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/cart.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/resources/spring-dao.xml" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/controller/SysuserController.java" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/customerManager.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/login.jsp" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/mycss.css" />
+        <option value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/controller/CodeController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zshop_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zshop_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dhttps.protocols=TLSv1.2" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="858" />
+    <option name="y" value="46" />
+    <option name="width" value="955" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_backend_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zshop" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itany.zshop.service" />
+      <recent name="com.itany.zshop.backend.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\ssm\zshop\zshop_parent\zshop_backend_web\src\main\webapp\WEB-INF" />
+      <recent name="D:\idea\ssm\zshop\zshop_parent\zshop_backend_web\src\main\webapp\WEB-INF\css" />
+      <recent name="D:\idea\ssm\zshop\zshop_parent\zshop_front_web\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\idea\ssm\zshop\zshop_parent\zshop_dao\src\main\java\com\itany\zshop\mapper" />
+      <recent name="D:\idea\ssm\zshop\zshop_parent\zshop_front_web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.backendweb">
+    <configuration name="backendweb" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/zshop_parent/zshop_backend_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="frontweb" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/zshop_parent/zshop_front_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomacat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.85" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_zshop_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5722" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.backendweb" />
+      <item itemvalue="Maven.frontweb" />
+      <item itemvalue="Tomcat Server.Tomacat" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ZH\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28738eb6-27ff-4745-a4ad-c70e1de79398" name="Default Changelist" comment="" />
+      <created>1586613463845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586613463845</updated>
+      <workItem from="1586613466326" duration="3266000" />
+      <workItem from="1586658026741" duration="17287000" />
+      <workItem from="1586739532373" duration="10703000" />
+      <workItem from="1586751435292" duration="8145000" />
+      <workItem from="1586759718102" duration="18865000" />
+      <workItem from="1586826810380" duration="29825000" />
+      <workItem from="1586866384730" duration="628000" />
+      <workItem from="1586870934349" duration="6513000" />
+      <workItem from="1586914582262" duration="4616000" />
+      <workItem from="1586926743044" duration="21238000" />
+      <workItem from="1586953582538" duration="7812000" />
+      <workItem from="1586999169231" duration="17500000" />
+      <workItem from="1587023709855" duration="695000" />
+      <workItem from="1587032038987" duration="1342000" />
+      <workItem from="1587091641838" duration="1991000" />
+      <workItem from="1587112574656" duration="9729000" />
+      <workItem from="1587172538513" duration="564000" />
+      <workItem from="1587173723241" duration="29782000" />
+      <workItem from="1587209190305" duration="3959000" />
+      <workItem from="1587348444267" duration="21348000" />
+      <workItem from="1587432760766" duration="1153000" />
+      <workItem from="1587435345300" duration="1854000" />
+      <workItem from="1587441173335" duration="1987000" />
+      <workItem from="1587444223195" duration="1785000" />
+      <workItem from="1587563342211" duration="112000" />
+      <workItem from="1587621579057" duration="1217000" />
+      <workItem from="1587716798941" duration="604000" />
+      <workItem from="1588332133230" duration="1476000" />
+      <workItem from="1588502602890" duration="5225000" />
+      <workItem from="1588940482804" duration="5123000" />
+      <workItem from="1588989114444" duration="18771000" />
+      <workItem from="1589426662327" duration="40000" />
+      <workItem from="1589427876377" duration="1094000" />
+      <workItem from="1589431783688" duration="3567000" />
+      <workItem from="1589518624676" duration="610000" />
+      <workItem from="1589594198233" duration="1330000" />
+      <workItem from="1589793718467" duration="2368000" />
+      <workItem from="1590215520332" duration="621000" />
+      <workItem from="1590246532345" duration="3490000" />
+      <workItem from="1590282254562" duration="21188000" />
+      <workItem from="1590326077053" duration="920000" />
+      <workItem from="1592482806469" duration="2921000" />
+      <workItem from="1592547346828" duration="1524000" />
+      <workItem from="1593011442940" duration="2078000" />
+      <workItem from="1593014264175" duration="590000" />
+      <workItem from="1593257935648" duration="1217000" />
+      <workItem from="1593433542707" duration="2758000" />
+      <workItem from="1593446753231" duration="1836000" />
+      <workItem from="1593486528783" duration="1462000" />
+      <workItem from="1593519563937" duration="3107000" />
+      <workItem from="1593539722427" duration="5317000" />
+      <workItem from="1593573384364" duration="3897000" />
+      <workItem from="1593591769824" duration="2818000" />
+      <workItem from="1593597370851" duration="6798000" />
+      <workItem from="1594028966415" duration="1540000" />
+      <workItem from="1594296004938" duration="1485000" />
+      <workItem from="1594386859067" duration="3978000" />
+      <workItem from="1594439895158" duration="8960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="342629000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17895442" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.6948148" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39824304" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4922879" weight="0.71742314" />
+      <window_info anchor="bottom" id="Database Changes" order="8" sideWeight="0.49871466" weight="0.329429" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" sideWeight="0.49871466" weight="0.329429" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49871466" weight="0.32889733" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49871466" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50771207" side_tool="true" weight="0.32988167" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.3288889" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.31478772" />
+      <window_info anchor="bottom" id="Spring" order="15" sideWeight="0.49871466" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="16" visible="true" weight="0.50564337" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32908848" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.16420911" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/main.jsp</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/CustomerService.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/impl/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_dao/src/main/java/com/itany/zshop/dao/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_dao/src/main/java/com/itany/zshop/mapper/CustomerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/impl/PruductTypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/images/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/images/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/images/33.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE-sources.jar!/org/springframework/util/StreamUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/productManager.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4462">
+          <caret line="194" column="85" selection-start-line="194" selection-start-column="27" selection-end-line="194" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="109" column="143" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_front_web/src/main/java/com/itany/zshop/front/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="173" column="9" selection-start-line="173" selection-start-column="9" selection-end-line="173" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/impl/productServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_pojo/src/main/java/com/itany/zshop/pojo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-917">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="375" column="18" selection-start-line="375" selection-start-column="18" selection-end-line="375" selection-end-column="18" />
+          <folding>
+            <element signature="e#15711#15712#0" expanded="true" />
+            <element signature="e#15747#15748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/SysuserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_service/src/main/java/com/itany/zshop/service/impl/SysuserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_common/src/main/java/com/itany/zshop/common/constant/SysuserContstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_common/src/main/java/com/itany/zshop/common/exception/SysuserNotExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/customerManager.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="77" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="15" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/main.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/user.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/hotaddress2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/hotaddress1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/com-logo1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/33.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/add.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/hotaddress3.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/shop10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/temp.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/file.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/bootstrapValidator.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/mycss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2061" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/images/backimage.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/controller/SysuserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-635">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/iconfont/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1104" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/java/com/itany/zshop/backend/controller/CodeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/css/bootstrap-responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4347" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/src/main/webapp/WEB-INF/views/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>zshop_backend_web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
